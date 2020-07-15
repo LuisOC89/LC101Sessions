@@ -1,0 +1,24 @@
+
+Behaviors (CD/DVD)
+[x] They both spin, 
+[x] They both store data,
+[x] Data gets written to the discs by using a laser,
+[x] The data on the discs can be read by using a laser,
+[x] Once loaded, they both report information like name, capacity, contents, and disc type.
+
+Interface:
+spinDisc()
+storeData()
+readData()
+WriteData()
+
+Abstract Class Disk:
+name
+capacity
+contents
+discType
+
+CD:
+
+DVD:
+
